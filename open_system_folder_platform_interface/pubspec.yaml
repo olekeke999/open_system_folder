@@ -1,12 +1,12 @@
 name: open_system_folder_platform_interface
 description: A common platform interface for the open_system_folder plugin.
-version: 0.1.0
-publish_to: none
+version: 0.1.1
 repository: https://github.com/olekeke999/open_system_folder
 issue_tracker: https://github.com/olekeke999/open_system_folder/issues
 
 environment:
-  sdk: ^3.4.0
+  sdk: ^3.0.0
+  flutter: '>=3.0.0'
 
 dependencies:
   flutter:
