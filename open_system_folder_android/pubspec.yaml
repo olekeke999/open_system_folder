@@ -1,7 +1,7 @@
 name: open_system_folder_android
 description: Android implementation of the open_system_folder plugin
-version: 0.1.1
-repository: https://github.com/olekeke999/open_system_folder
+version: 0.1.3
+repository: https://github.com/olekeke999/open_system_folder/tree/main/open_system_folder_android
 issue_tracker: https://github.com/olekeke999/open_system_folder/issues
 
 environment:
@@ -20,7 +20,7 @@ flutter:
 dependencies:
   flutter:
     sdk: flutter
-  open_system_folder_platform_interface: ^0.1.1
+  open_system_folder_platform_interface: ^0.1.2
 
 dev_dependencies:
   flutter_test:

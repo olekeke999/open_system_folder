@@ -1,7 +1,7 @@
 name: open_system_folder
 description: Flutter plugin to open system folder in the File Manager.
-version: 0.1.1
-repository: https://github.com/olekeke999/open_system_folder
+version: 0.1.2
+repository: https://github.com/olekeke999/open_system_folder/tree/main/open_system_folder
 issue_tracker: https://github.com/olekeke999/open_system_folder/issues
 
 environment:
@@ -19,9 +19,9 @@ flutter:
 dependencies:
   flutter:
     sdk: flutter
-  open_system_folder_android: ^0.1.1
-  open_system_folder_ios: ^0.1.1
-  open_system_folder_platform_interface: ^0.1.1
+  open_system_folder_android: ^0.1.3
+  open_system_folder_ios: ^0.1.2
+  open_system_folder_platform_interface: ^0.1.2
 
 dev_dependencies:
   flutter_test:
